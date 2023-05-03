@@ -1,7 +1,7 @@
 English | [简体中文](README_cn.md)
 # Modify-Anything: Segment Anything Meets Video and Image Modify and Picture Video Background Replacement
 
-Modify-Anything is based on YOLO5,YOLO8, for video and image detection. Segment-anything,lama_cleaner对目标is applied to 
+Modify-Anything is based on YOLO5,YOLO8, for video and image detection. Segment-anything,lama_cleaner is applied to 
 segment, modify, erase, and obtain the target image. The background of the target image video
 can be changed, and the background of the image video can be changed.
 
